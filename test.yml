@@ -1,0 +1,9 @@
+
+- hosts: windows
+  tasks:
+  - name: test
+    win_command: whoami
+    register: data
+  - name: show
+    debug:
+       msg:"{{data.stdout}}"
