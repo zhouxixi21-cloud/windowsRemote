@@ -3,8 +3,8 @@
   tasks:
   - name: test
     win_copy:
-      src: /package/1.txt
-      dest: C:\Users\Administrator\Desktop
+       src: /package/1.txt
+       dest: C:\Users\Administrator\Desktop
   - name: show 
     debug:
        msg: "{{data.stdout}}"
