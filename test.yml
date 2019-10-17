@@ -6,4 +6,4 @@
     register: data
   - name: show
     debug:
-       msg:"{{data.stdout}}"
+       msg: "{{data.stdout}}"
