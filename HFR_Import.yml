@@ -4,7 +4,7 @@
   - name: copy source file to HFR server
     win_copy: src=package/{{filename}} dest=E:\Adminutils\LCM_Jenkins
   - name: copy import script to HFR server
-    win_copy: src=package/LCM_Import_TEST.bat dest=E:\Adminutils\LCM_Jenkins force=yes
+    win_copy: src=package/LCM_Import_TEST.bat dest=E:\Adminutils\LCM_Jenkins\LCM_Import_TEST.bat
   - name: Import
     win_shell: Start-Process powershell -Verb runAs;.\LCM_Export_TEST.bat
     args:
