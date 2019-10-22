@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artifactListing>
+    <folder id="REPORTMART" path="/Repository Objects" pathAlias="/00"
+        modifiedBy="admin" lastUpdated="1564608117000" description="Hyperion Root Folder"/>
+    <folder id="0000015352932b56-0000-a788-821d961f"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin" lastUpdated="1571722085000"/>
+    <folder id="0000015352577fb8-0000-a788-821d961f"
+        path="/Repository Objects/HFM HFR Reports/Common"
+        pathAlias="/00/00000150f/000001" modifiedBy="admin" lastUpdated="1571722085000"/>
+    <folder id="00000150fd64b435-0000-b123-821d9620"
+        path="/Repository Objects/HFM HFR Reports"
+        pathAlias="/00/00000150f" modifiedBy="admin" lastUpdated="1571722085000"/>
+    <resource id="00000169762376d3-0000-0691-821d96b0"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin"
+        lastUpdated="1571722086000"
+        description="Trial Balance - Summary"
+        name="LGAAP--Trial Balance --Entity As Prompt"
+        type="application/hyperion-reports-report" size="-1"/>
+    <resource id="000001582ab5f589-0000-1020-821e0441"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin"
+        lastUpdated="1571722086000"
+        description="USGAAP - Trial Balance - Summary - All Entities"
+        name="USGAAP - TB - Summary - All Entites"
+        type="application/hyperion-reports-report" size="-1"/>
+    <resource id="0000016976238926-0000-0691-821d96b0"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin"
+        lastUpdated="1571722086000"
+        description="USGAAP - Trial Balance - Summary - All Entities"
+        name="USGAAP - TB - Summary --Entity as Prompt"
+        type="application/hyperion-reports-report" size="-1"/>
+    <resource id="000001582ab5f64e-0000-1020-821e0441"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin"
+        lastUpdated="1571722086000"
+        description="USGAAP - Trial Balance - Summary - All Entities"
+        name="USGAAP - TB - Summary --Entity as Prompt"
+        type="application/hyperion-reports-report" size="-1"/>
+    <resource id="00000153526d7401-0000-a788-821d961f"
+        path="/Repository Objects/HFM HFR Reports/Common/Trial Balance"
+        pathAlias="/00/00000150f/000001/0" modifiedBy="admin"
+        lastUpdated="1571722086000"
+        description="Trial Balance - Summary"
+        name="LGAAP--Trial Balance --Entity As Prompt"
+        type="application/hyperion-reports-report" size="-1"/>
+</artifactListing>

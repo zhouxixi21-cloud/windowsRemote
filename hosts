@@ -1,2 +1,0 @@
-[windows]
-66.42.66.122 ansible_ssh_user="Administrator" ansible_ssh_pass="S2+eurUL=PT_aXbT" ansible_ssh_port=5985 ansible_connection="winrm" ansible_winrm_server_cert_validation=ignore

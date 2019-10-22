@@ -1,0 +1,7 @@
+
+- hosts: windows
+  tasks:
+  - name: copy source file to HFR server
+    win_copy: src=package/{{filename}} dest=E:\Adminutils\LCM_Jenkins
+  - name: show
+    
