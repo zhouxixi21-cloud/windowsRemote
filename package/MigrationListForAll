@@ -1,0 +1,18 @@
+HANA1.ext v1.3 HANAApp
+HANA2.ext v5.2 HANAApp
+concur_transaction.lcmbiar v2.3 Bobj
+concur_transaction2.lcmbiar v1.4 Bobj
+DB_ACC.rul v1.1 Essbase
+DB_ACCSH.rul v1.0 Essbase
+Exp_HC.rep v2.1 Essbase
+Exp_Rec2.rep v1.0 Essbase
+Ess2Hana_MonthlyOrdersForecast.ksh  v1.0 Essbase_US
+Ess2Hana_MonthlyOrdersForecast.scr v1.1 Essbase_MS
+Exp_ExpF.csc v1.0 Essbase_CS
+Exp_OrdF.csc v1.0 Essbase_CS
+Informatica_export.xml v1.0 Informatica
+JenHFR_Test_201910220647 v1.2 HFR
+JenHFR_Test_201910230037 v1.2 HFR
+EXPORT_TEST.part0.zip v1.3 SpotFire
+it_ruser.keytab ccdep_old v1.1 Predictive_R
+hanaPOC_0.0.1.mtar v1.0 hana2.0

@@ -1,9 +1,0 @@
-<Package>
-    <LOCALE>en_US</LOCALE>
-    <User name="" password=""/>
-    <Task>
-        <Source type="Application" product="HAVA" project="Reporting and Analysis" application="Reporting and Analysis"/>
-        <Target type="FileSystem" filePath="/RnA-Reporting and Analysis"/>
-        <Artifact recursive="true" parentPath="/Repository Objects/HFM HFR Reports/Common/Trial Balance" pattern="*"/>
-    </Task>
-</Package>
