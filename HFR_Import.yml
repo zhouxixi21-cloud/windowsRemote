@@ -2,7 +2,9 @@
 - hosts: windows
   tasks:
   - name: copy source file to HFR server
-    win_copy: src=package/{{filename}} dest=E:\Adminutils\LCM_Jenkins
+    win_copy: 
+      src: package/{{filename}} 
+      dest: E:\Adminutils\LCM_Jenkins
   - name: copy import script to HFR server
     win_copy: src=package/LCM_Import_TEST.bat dest=E:\Adminutils\LCM_Jenkins\LCM_Import_TEST.bat
   - name: Import
