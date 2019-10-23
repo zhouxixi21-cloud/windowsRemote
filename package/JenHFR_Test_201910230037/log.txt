@@ -1,0 +1,62 @@
+
+Migrating artifacts from Reporting and Analysis/Reporting and Analysis to E:\Adminutils\LCM_Jenkins\JenHFR_Test_201910230037\RnA-Reporting and Analysis  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary - All Entites.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - USGAAP - TB - Summary --Entity as Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Exported Artifact - LGAAP--Trial Balance --Entity As Prompt.  
+
+Migration Status - Success  
