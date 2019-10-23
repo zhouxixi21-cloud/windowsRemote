@@ -1,5 +1,5 @@
 
-- hosts: windows
+- hosts: HFR_Server
   tasks:
   - name: copy source file to HFR server
     win_copy: 
