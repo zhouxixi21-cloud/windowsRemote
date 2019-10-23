@@ -1,5 +1,5 @@
-HANA1.ext v1.3 HANAApp
-HANA2.ext v5.2 HANAApp
+ADU_POC_VERSION.tgz v2.0 HANAApp
+regi_DU_export.tgz v3.0 HANAApp
 concur_transaction.lcmbiar v2.3 Bobj
 concur_transaction2.lcmbiar v1.4 Bobj
 DB_ACC.rul v1.1 Essbase
