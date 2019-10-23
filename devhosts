@@ -1,2 +1,0 @@
-[windows]
-wepfndd1.cos.agilent.com ansible_ssh_user="XitoZhou" ansible_ssh_pass="6bqA2-UV" ansible_ssh_port=5985 ansible_connection="winrm" ansible_winrm_transport=ntlm  ansible_winrm_server_cert_validation=ignore
